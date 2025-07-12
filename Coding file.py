@@ -1,2 +1,1 @@
-Python 3.12.6 (tags/v3.12.6:a4a2d2b, Sep  6 2024, 20:11:23) [MSC v.1940 64 bit (AMD64)] on win32
-Type "help", "copyright", "credits" or "license()" for more information.
+print("Class: Computer Science Coding 142 OA1 9956 \n After reviewing Module 0, I learned many cool things about coding.  One of the cool things I learned was how much coding and math are similar. Using repitition structures we can mimic sigma in order to add numbers 1-5. For example the sigma symbol is kinda like the loop in the code and the i=1 is like the startnum and the 5 ontop of sigma is like the endnum 5. It pretty much facinates me how dumb yet smart code can be, as it needs more specific and precise instructions from humans but can do calculations perfectly every time compared to us.")
